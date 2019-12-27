@@ -10,13 +10,13 @@
         <module name="demo" />
         <module name="eureka" />
         <module name="feign" />
-        <module name="mybatis" />
         <module name="ribbon" />
-        <module name="ssl" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="demo" target="1.8" />
+      <module name="mybatis" target="1.8" />
+      <module name="ssl" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

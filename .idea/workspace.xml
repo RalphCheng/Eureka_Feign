@@ -5,29 +5,39 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4ef801d7-5f87-483a-b341-803f92f18939" name="Default" comment="springcloud template contains eureka、client、ribbon、feign">
-      <change afterPath="$PROJECT_DIR$/mybatis/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis/HELP.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis/mybatis.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis/src/main/java/com/cl/agree/springcloud/mybatis/JDBCTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis/src/main/java/com/cl/agree/springcloud/mybatis/MybatisApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis/src/main/java/com/cl/agree/springcloud/mybatis/SpringBootJDBCTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis/src/main/java/com/cl/agree/springcloud/mybatis/entity/Order.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis/src/main/java/com/cl/agree/springcloud/mybatis/entity/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis/src/main/resources/hibernate.cfg.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis/src/test/java/com/cl/agree/springcloud/mybatis/MybatisApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ssl/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ssl/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ssl/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ssl/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ssl/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ssl/src/main/java/com/cl/agree/springcloud/ssl/SslApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ssl/src/main/java/com/cl/agree/springcloud/ssl/controller/HiController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ssl/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ssl/src/test/java/com/cl/agree/springcloud/ssl/SslApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mybatis/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mybatis/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mybatis/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mybatis/HELP.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mybatis/mybatis.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mybatis/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mybatis/src/main/java/com/cl/agree/springcloud/mybatis/JDBCTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mybatis/src/main/java/com/cl/agree/springcloud/mybatis/MybatisApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mybatis/src/main/java/com/cl/agree/springcloud/mybatis/SpringBootJDBCTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mybatis/src/main/java/com/cl/agree/springcloud/mybatis/entity/Order.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mybatis/src/main/java/com/cl/agree/springcloud/mybatis/entity/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mybatis/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mybatis/src/main/resources/hibernate.cfg.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mybatis/src/test/java/com/cl/agree/springcloud/mybatis/MybatisApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mybatis/target/classes/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mybatis/target/classes/com/cl/agree/springcloud/mybatis/JDBCTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mybatis/target/classes/com/cl/agree/springcloud/mybatis/MybatisApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mybatis/target/classes/com/cl/agree/springcloud/mybatis/SpringBootJDBCTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mybatis/target/classes/com/cl/agree/springcloud/mybatis/entity/Order.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mybatis/target/classes/com/cl/agree/springcloud/mybatis/entity/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mybatis/target/classes/hibernate.cfg.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mybatis/target/test-classes/com/cl/agree/springcloud/mybatis/MybatisApplicationTests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ssl/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ssl/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ssl/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ssl/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ssl/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ssl/src/main/java/com/cl/agree/springcloud/ssl/SslApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ssl/src/main/java/com/cl/agree/springcloud/ssl/controller/HiController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ssl/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ssl/src/test/java/com/cl/agree/springcloud/ssl/SslApplicationTests.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -130,39 +140,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MybatisApplication.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mybatis/src/main/java/com/cl/agree/springcloud/mybatis/MybatisApplication.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="130">
-              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="JDBCTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mybatis/src/main/java/com/cl/agree/springcloud/mybatis/JDBCTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="650">
-              <caret line="26" column="91" selection-start-line="26" selection-start-column="91" selection-end-line="26" selection-end-column="109" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SpringBootJDBCTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mybatis/src/main/java/com/cl/agree/springcloud/mybatis/SpringBootJDBCTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="591">
-              <caret line="28" column="33" lean-forward="true" selection-start-line="28" selection-start-column="33" selection-end-line="28" selection-end-column="33" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="HelloController.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/client/src/main/java/com/cl/agree/springcloud/client/controller/HelloController.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -207,14 +184,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MavenWrapperDownloader.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="MavenWrapperDownloader.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/client/.mvn/wrapper/MavenWrapperDownloader.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="651">
-              <caret line="117" column="1" lean-forward="true" selection-start-line="117" selection-start-column="1" selection-end-line="117" selection-end-column="1" />
+            <state relative-caret-position="521">
+              <caret line="112" column="20" selection-start-line="112" selection-start-column="20" selection-end-line="112" selection-end-column="20" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="234">
+              <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -296,7 +282,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/ribbon/src/main/java/com/cl/agree/springcloud/ribbon/controller/RestTestController.java" />
         <option value="$PROJECT_DIR$/feign/src/main/java/com/cl/agree/springcloud/feign/config/FeignGlobalConfig.java" />
         <option value="$PROJECT_DIR$/feign/src/main/java/com/cl/agree/springcloud/feign/utils/MySpringContext.java" />
         <option value="$PROJECT_DIR$/ribbon/src/main/java/com/cl/agree/springcloud/ribbon/old/config/OAuth2ClientConfig.java" />
@@ -347,6 +332,7 @@
         <option value="$PROJECT_DIR$/mybatis/pom.xml" />
         <option value="$PROJECT_DIR$/mybatis/src/main/java/com/cl/agree/springcloud/mybatis/SpringBootJDBCTest.java" />
         <option value="$PROJECT_DIR$/mybatis/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -436,8 +422,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -445,63 +429,12 @@
               <item name="Eureka_Feign" type="b2602c69:ProjectViewProjectNode" />
               <item name="Eureka_Feign" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Eureka_Feign" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Eureka_Feign" type="462c0819:PsiDirectoryNode" />
-              <item name="mybatis" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Eureka_Feign" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Eureka_Feign" type="462c0819:PsiDirectoryNode" />
-              <item name="mybatis" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Eureka_Feign" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Eureka_Feign" type="462c0819:PsiDirectoryNode" />
-              <item name="mybatis" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Eureka_Feign" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Eureka_Feign" type="462c0819:PsiDirectoryNode" />
-              <item name="mybatis" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Eureka_Feign" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Eureka_Feign" type="462c0819:PsiDirectoryNode" />
-              <item name="mybatis" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="mybatis" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Eureka_Feign" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Eureka_Feign" type="462c0819:PsiDirectoryNode" />
-              <item name="mybatis" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="mybatis" type="462c0819:PsiDirectoryNode" />
-              <item name="entity" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Eureka_Feign" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Eureka_Feign" type="462c0819:PsiDirectoryNode" />
-              <item name="mybatis" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -513,6 +446,7 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="SearchEverywhereHistoryKey" value="BeanDefinition&#9;FILE&#9;jar://D:/javatools/mavenrepo/org/springframework/spring-beans/5.2.1.RELEASE/spring-beans-5.2.1.RELEASE.jar!/org/springframework/beans/factory/config/BeanDefinition.class&#10;AnnotationConfigApplicationContext&#9;PSI&#9;JAVA://org.springframework.context.annotation.AnnotationConfigApplicationContext&#10;Annotation*ApplicationContext&#9;null&#9;null&#10;WebApplicationContext&#9;PSI&#9;JAVA://org.springframework.web.context.WebApplicationContext&#10;BeanFactory&#9;FILE&#9;jar://D:/javatools/mavenrepo/org/springframework/spring-beans/5.2.1.RELEASE/spring-beans-5.2.1.RELEASE.jar!/org/springframework/beans/factory/support/AbstractBeanFactory.class&#10;*ApplicationContext&#9;PSI&#9;JAVA://org.apache.catalina.core.ApplicationContext&#10;FeignClientAutoConfiguration&#9;FILE&#9;jar://D:/javatools/mavenrepo/org/springframework/cloud/spring-cloud-openfeign-core/2.1.3.RELEASE/spring-cloud-openfeign-core-2.1.3.RELEASE.jar!/org/springframework/cloud/openfeign/ribbon/FeignRibbonClientAutoConfiguration.class&#10;RequestSpecificRetryHandler&#9;PSI&#9;JAVA://com.netflix.client.RequestSpecificRetryHandler&#10;Hyst&#9;FILE&#9;jar://D:/javatools/mavenrepo/org/springframework/cloud/spring-cloud-netflix-hystrix/2.1.1.RELEASE/spring-cloud-netflix-hystrix-2.1.1.RELEASE.jar!/org/springframework/cloud/netflix/hystrix/HystrixAutoConfiguration.class&#10;*Hystrix&#9;FILE&#9;jar://D:/javatools/mavenrepo/org/springframework/cloud/spring-cloud-netflix-hystrix/2.1.1.RELEASE/spring-cloud-netflix-hystrix-2.1.1.RELEASE.jar!/org/springframework/cloud/netflix/hystrix/HystrixAutoConfiguration.class&#10;*HystrixAutoConfiguration&#9;PSI&#9;JAVA://org.springframework.cloud.netflix.hystrix.HystrixAutoConfiguration&#10;EurekaClientFeign&#9;null&#9;null&#10;LoadBalanceClient&#9;PSI&#9;JAVA://org.springframework.cloud.client.loadbalancer.LoadBalancerClient&#10;FeignRibbonClientAutoConfiguration&#9;FILE&#9;jar://D:/javatools/mavenrepo/org/springframework/cloud/spring-cloud-openfeign-core/2.1.3.RELEASE/spring-cloud-openfeign-core-2.1.3.RELEASE.jar!/org/springframework/cloud/openfeign/ribbon/FeignRibbonClientAutoConfiguration.class&#10;FeignClientsConfiguration&#9;PSI&#9;JAVA://org.springframework.cloud.openfeign.FeignClientsConfiguration" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="add_unversioned_files" value="$PROJECT_DIR$/.gitignore" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.intellij.database.dataSource.DataSourceTemplate" value="MySQL" />
     <property name="database.console.LAST_STATE" value="false" />
@@ -525,7 +459,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="ImportMappingsDialog.RecentPackages">
@@ -1011,7 +945,8 @@
       <workItem from="1576826485111" duration="2261000" />
       <workItem from="1576900000956" duration="5195000" />
       <workItem from="1576911480974" duration="2098000" />
-      <workItem from="1577454287907" duration="3302000" />
+      <workItem from="1577454287907" duration="5413000" />
+      <workItem from="1577460902898" duration="1053000" />
     </task>
     <task id="LOCAL-00001" summary="springcloud template contains eureka、client、ribbon、feign">
       <created>1577458430308</created>
@@ -1032,7 +967,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="138886000" />
+    <option name="totallyTimeSpent" value="142050000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1047,39 +982,39 @@
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
     <editor active="true" />
     <layout>
+      <window_info anchor="bottom" id="TODO" order="10" weight="0.3291714" />
       <window_info anchor="bottom" id="FindBugs-IDEA" order="1" weight="0.3291714" />
+      <window_info anchor="right" id="Palette&#9;" order="0" />
+      <window_info anchor="bottom" id="Java Enterprise" order="17" />
       <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
       <window_info id="Maven Projects" order="4" weight="0.32922912" />
       <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
-      <window_info anchor="bottom" id="MyBatis Log" order="16" />
-      <window_info id="Designer" order="1" />
-      <window_info anchor="bottom" id="Statistic" order="15" />
-      <window_info id="Database" order="5" weight="0.32976446" />
-      <window_info anchor="right" id="Structure" order="7" side_tool="true" weight="0.24973205" />
-      <window_info anchor="right" id="Ant Build" order="2" show_stripe_button="false" weight="0.25" />
-      <window_info anchor="bottom" id="Debug" order="7" weight="0.38522726" />
-      <window_info anchor="bottom" id="TODO" order="10" weight="0.3291714" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.2919042" />
-      <window_info anchor="right" id="Palette&#9;" order="0" />
-      <window_info anchor="bottom" id="Java Enterprise" order="17" />
       <window_info anchor="bottom" id="Version Control" order="14" weight="0.32876712" />
       <window_info anchor="bottom" id="Run" order="6" weight="0.5051311" />
       <window_info anchor="bottom" id="Spring" order="13" />
       <window_info anchor="bottom" id="Terminal" order="3" weight="0.3291714" />
-      <window_info id="Persistence" order="0" sideWeight="0.50171036" side_tool="true" weight="0.27087796" />
-      <window_info active="true" content_ui="combo" id="Project" order="3" sideWeight="0.49828961" visible="true" weight="0.27462527" />
+      <window_info anchor="bottom" id="MyBatis Log" order="16" />
+      <window_info id="Designer" order="1" />
+      <window_info active="true" content_ui="combo" id="Project" order="3" sideWeight="0.49828961" visible="true" weight="0.2783726" />
       <window_info anchor="bottom" id="Problems" order="19" />
       <window_info anchor="right" id="Bean Validation" order="4" show_stripe_button="false" weight="0.3297587" />
+      <window_info anchor="bottom" id="Statistic" order="15" />
       <window_info id="Web" order="6" side_tool="true" />
+      <window_info id="Database" order="5" weight="0.32976446" />
+      <window_info anchor="right" id="Structure" order="7" side_tool="true" weight="0.24973205" />
+      <window_info anchor="right" id="Ant Build" order="2" show_stripe_button="false" weight="0.25" />
       <window_info id="Favorites" order="2" sideWeight="0.50056756" side_tool="true" weight="0.2368703" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.38522726" />
+      <window_info id="Persistence" order="0" sideWeight="0.50171036" side_tool="true" weight="0.27087796" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.2919042" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
       <window_info anchor="right" id="Commander" order="1" weight="0.4" />
       <window_info anchor="bottom" id="Inspection Results" order="18" weight="0.32954547" />
-      <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Database Console" order="0" weight="0.3295325" />
       <window_info anchor="right" x="493" y="283" width="933" height="463" id="REST Client" order="6" side_tool="true" weight="0.56691647" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="right" x="91" y="91" width="1738" height="848" id="Documentation" order="5" type="FLOATING" />
+      <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="5" weight="0.3291714" />
     </layout>
@@ -1096,7 +1031,7 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="11" />
+      <option name="time" value="12" />
     </breakpoint-manager>
     <watches-manager>
       <configuration name="SpringBootApplicationConfigurationType">
@@ -1105,13 +1040,6 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$MAVEN_REPOSITORY$/io/github/openfeign/feign-core/10.2.3/feign-core-10.2.3.jar!/feign/Client.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="25" column="17" selection-start-line="25" selection-start-column="17" selection-end-line="25" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-openfeign-core/2.1.3.RELEASE/spring-cloud-openfeign-core-2.1.3.RELEASE.jar!/org/springframework/cloud/openfeign/ribbon/CachingSpringLoadBalancerFactory.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="162">
@@ -1430,8 +1358,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/mybatis/src/main/java/com/cl/agree/springcloud/mybatis/SpringBootJDBCTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="591">
-          <caret line="28" column="33" lean-forward="true" selection-start-line="28" selection-start-column="33" selection-end-line="28" selection-end-column="33" />
+        <state relative-caret-position="520">
+          <caret line="28" column="33" selection-start-line="28" selection-start-column="33" selection-end-line="28" selection-end-column="33" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1447,11 +1375,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/client/.mvn/wrapper/MavenWrapperDownloader.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="651">
-          <caret line="117" column="1" lean-forward="true" selection-start-line="117" selection-start-column="1" selection-end-line="117" selection-end-column="1" />
+        <state relative-caret-position="521">
+          <caret line="112" column="20" selection-start-line="112" selection-start-column="20" selection-end-line="112" selection-end-column="20" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
         </state>
       </provider>
     </entry>
