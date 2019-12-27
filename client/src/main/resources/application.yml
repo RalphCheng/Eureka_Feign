@@ -1,0 +1,45 @@
+---
+server:
+  port: 9904
+spring:
+  application:
+    name: eureka-client
+  profiles: client1
+  thymeleaf:
+    suffix: .html
+    encoding: UTF-8
+    servlet:
+      content-type: text/html
+    cache: false
+#  servlet:
+#    multipart:
+#      enabled: true
+#      max-file-size: 100MB
+#      max-request-size: 100MB
+#      file-size-threshold: 0
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://pom-eureka1:9901/eureka
+  instance:
+    instance-id: client1
+
+---
+server:
+  port: 9905
+spring:
+  application:
+    name: eureka-client
+  profiles: client2
+  thymeleaf:
+    suffix: .html
+    encoding: UTF-8
+    servlet:
+      content-type: text/html
+    cache: false
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://pom-eureka1:9901/eureka
+  instance:
+    instance-id: client2

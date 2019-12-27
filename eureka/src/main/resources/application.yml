@@ -1,0 +1,50 @@
+---
+server:
+  port: 9901
+spring:
+  application:
+    name: peer
+  profiles: peer
+eureka:
+  instance:
+    hostname: ${spring.application.name}
+  client:
+    fetch-registry: false
+    register-with-eureka: false
+    service-url:
+      defaultZone: http://pom-eureka1:9901/eureka
+
+---
+server:
+  port: 9901
+spring:
+  application:
+    name: peer1
+  profiles: peer1
+eureka:
+  instance:
+    hostname: ${spring.application.name}
+  client:
+    fetch-registry: true
+    register-with-eureka: true
+    service-url:
+      defaultZone: http://pom-eureka2:9902/eureka
+
+
+---
+server:
+  port: 9902
+spring:
+  application:
+    name: eureka-server2
+  profiles: peer2
+eureka:
+  instance:
+    hostname: ${spring.application.name}
+  client:
+    # 表示是否注册自身到eureka服务器
+    register-with-eureka: true
+    #是否从eureka上获取注册信息
+    fetch-registry: true
+    service-url:
+      defaultZone: http://pom-eureka1:9901/eureka

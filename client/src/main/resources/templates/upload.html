@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>文件上传页面</title>
+</head>
+<body>
+    <form action="/upload" method="POST" enctype="multipart/form-data">
+        <input type="file" name="file" ><br>
+        <input type="submit" value="上传">
+    </form>
+    <a href="/download">下载</a>
+</body>
+<script src="/webjars/jquery/1.11.1/jquery.js"></script>
+<script src="/webjars/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+<script type="text/javascript" th:inline="javascript">
+</script>
+</html>
