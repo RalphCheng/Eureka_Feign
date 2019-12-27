@@ -1,0 +1,7 @@
+{
+  "timestamp": "2019-12-10T10:54:52.252+0000",
+  "status": 500,
+  "error": "Internal Server Error",
+  "message": "Read timed out executing POST https://192.9.200.71:10013/",
+  "path": "/sendJsonMsg"
+}

@@ -1,0 +1,7 @@
+{
+  "timestamp": "2019-12-06T02:30:27.500+0000",
+  "status": 500,
+  "error": "Internal Server Error",
+  "message": "java.lang.IllegalStateException: è¯ä¹¦1ç­¾åæè¯¯ï¼è¯·æ£æ¥ï¼ executing POST https://192.9.200.71:10013/",
+  "path": "/sendJsonMsg"
+}

@@ -1,0 +1,11 @@
+server:
+  port: 9907
+spring:
+  application:
+    name: ssl
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://pom-eureka1:9901/eureka
+  instance:
+    instance-id: ssl

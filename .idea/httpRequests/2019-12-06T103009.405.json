@@ -1,0 +1,7 @@
+{
+  "timestamp": "2019-12-06T02:30:09.422+0000",
+  "status": 405,
+  "error": "Method Not Allowed",
+  "message": "Request method 'GET' not supported",
+  "path": "/sendJsonMsg"
+}

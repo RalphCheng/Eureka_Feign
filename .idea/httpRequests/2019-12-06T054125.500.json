@@ -1,0 +1,7 @@
+{
+  "timestamp": "2019-12-06T09:41:25.555+0000",
+  "status": 500,
+  "error": "Internal Server Error",
+  "message": "Circular view path [download]: would dispatch back to the current handler URL [/download] again. Check your ViewResolver setup! (Hint: This may be the result of an unspecified view, due to default view name generation.)",
+  "path": "/download"
+}
